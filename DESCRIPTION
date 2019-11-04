@@ -1,4 +1,4 @@
-Package: metadar
+Package: metadarclean
 Type: Package
 Title: Metabolomics data analysis
 Version: 0.48
@@ -15,7 +15,6 @@ Collate: Dataset.R zeroFiltering.R zeroImputation.R foldChange.R
         LogisticRegression.R RandomForest.R Mclust2.R TukeyHSD2.R
         oneWayAnova.R twoWayAnova.R kruskalWallis.R SUMCOV.R
         tgAnalysis.R hilo.R
-Depends: methods, randomForest, ROCR, Biobase, gplots, beanplot,
-        subselect, glmnet, mclust, pROC, simpleaffy, plyr, MASS, ihm
+Depends: methods, Biobase, gplots, mclust, ihm
 URL: http://code.google.com/p/metadar
 Packaged: 2014-04-13 11:31:58 UTC; gopal

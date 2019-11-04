@@ -1,0 +1,38 @@
+ Volume in drive C is OS
+ Volume Serial Number is B41E-2FF2
+
+ Directory of C:\Users\Yui\Documents\dissertation\metadar\R
+
+20/10/2019  17:48    <DIR>          .
+20/10/2019  17:48    <DIR>          ..
+05/03/2014  21:33             3,640 allpairsCorrelation.R
+05/03/2014  21:33             1,199 allpairsCovariance.R
+05/03/2014  21:33             3,481 allpairslogOdds.R
+05/03/2014  21:33             1,117 allpairsTTest.R
+05/03/2014  21:33             1,753 barplots.R
+05/03/2014  21:33             1,758 beanPlot.R
+05/03/2014  21:33             1,624 boxPlot.R
+05/03/2014  21:33             4,003 Classifier.R
+05/03/2014  21:33             1,891 colhclust.R
+13/10/2019  12:57            26,380 Dataset.R
+20/10/2019  17:48                 0 dir.txt
+05/03/2014  21:33             8,492 foldChange.R
+05/03/2014  21:33             2,601 hilo.R
+05/03/2014  21:33             1,434 kruskalWallis.R
+05/03/2014  21:33             2,318 LogisticRegression.R
+05/03/2014  21:33            10,138 Mclust2.R
+05/03/2014  21:33             1,248 oneWayAnova.R
+05/03/2014  21:33             8,369 PCA2.R
+05/03/2014  21:33             1,668 RandomForest.R
+05/03/2014  21:33               814 SUMCOV.R
+05/03/2014  21:33            20,225 tgAnalysis.R
+05/03/2014  21:33             2,311 TukeyHSD2.R
+05/03/2014  21:33             3,169 twoWayAnova.R
+05/03/2014  21:33             1,004 univariateChisq.R
+05/03/2014  21:33             3,819 univariateOddsRatio.R
+05/03/2014  21:33             3,321 univariateTTest.R
+05/03/2014  21:33             3,129 univariateWilcox.R
+05/03/2014  21:33             2,970 zeroFiltering.R
+05/03/2014  21:33             6,242 zeroImputation.R
+              29 File(s)        130,118 bytes
+               2 Dir(s)  202,152,542,208 bytes free

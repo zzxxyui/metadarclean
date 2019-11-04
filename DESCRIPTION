@@ -1,0 +1,21 @@
+Package: metadar
+Type: Package
+Title: Metabolomics data analysis
+Version: 0.48
+Date: 2014-03-13
+Author: Gopal Peddinti
+Maintainer: Gopal Peddinti <cugopal@gmail.com>
+Description: Provides an interface for most common metabolomics data analysis tasks. The methods are general and not just limited to metabolomics data.
+License: GPL-3
+Collate: Dataset.R zeroFiltering.R zeroImputation.R foldChange.R
+        univariateTTest.R univariateWilcox.R univariateChisq.R
+        univariateOddsRatio.R allpairsCorrelation.R
+        allpairsCovariance.R allpairslogOdds.R allpairsTTest.R
+        barplots.R boxPlot.R beanPlot.R colhclust.R PCA2.R Classifier.R
+        LogisticRegression.R RandomForest.R Mclust2.R TukeyHSD2.R
+        oneWayAnova.R twoWayAnova.R kruskalWallis.R SUMCOV.R
+        tgAnalysis.R hilo.R
+Depends: methods, randomForest, ROCR, Biobase, gplots, beanplot,
+        subselect, glmnet, mclust, pROC, simpleaffy, plyr, MASS, ihm
+URL: http://code.google.com/p/metadar
+Packaged: 2014-04-13 11:31:58 UTC; gopal

@@ -1,0 +1,52 @@
+exportMethods(
+    "allpairsCorrelation",
+    "allpairsCovariance",
+    "allpairslogOdds",
+    "allpairsTTest",
+    "beanPlot",
+    "boxPlot",
+    "buildMclust2",
+    "calculateClusters",
+    "colhclust",
+    "concatenate",
+    "countDoubleBonds",
+    "createClassifier",
+    "foldChange",
+    "getSampleMetaData",
+    "getVariableMetaData",
+    "initialize",
+    "intersect",
+    "kruskalWallis",
+    "log10",
+    "log2",
+    "log",
+    "meanSem",
+    "meanCI",
+    "medianCI",
+    "na.omit",
+    "oneWayAnova",
+    "printDataset",
+    "rankNormalization",
+    "readDataset",
+    "setExprs",
+    "setVariableMetaData",
+    "SUMCOV",
+    "tgAnalysis",
+    "twoWayAnova",
+    "univariateAUC",
+    "univariateChisq",
+    "univariateCorrelation",
+    "univariateOddsRatio",
+    "univariateTTest",
+    "univariateWilcox",
+    "varSel",
+    "zeroFiltering",
+    "zeroImputation",
+    "hilo"
+)
+exportClasses("Dataset")
+exportClasses("PCA")
+exportClasses("Mclust2")
+exportClasses("Classifier")
+exportClasses("RandomForest")
+exportClasses("LogisticRegression")
